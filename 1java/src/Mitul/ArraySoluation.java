@@ -2,7 +2,7 @@ package Mitul;
 
 public class ArraySoluation {
     public static void main(String[] args) {
-        // comment
+
         // sum of Diagonal Element
         int[][] mat = {
                 {1,2,3},
