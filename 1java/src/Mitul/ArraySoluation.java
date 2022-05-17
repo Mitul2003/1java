@@ -24,4 +24,5 @@ public class ArraySoluation {
             }
             return sum;
         }
+    // chang in github
 }
