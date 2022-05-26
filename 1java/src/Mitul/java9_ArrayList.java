@@ -40,8 +40,7 @@ public class java9_ArrayList {
             }
         }
 
-        System.out.println(mlist
-        );
+        System.out.println(mlist);
 
 
     }
