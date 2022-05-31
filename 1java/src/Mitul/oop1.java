@@ -1,4 +1,9 @@
 package Mitul;
+
+import Mitul.A.Message;
+
+import static Mitul.A.Message.messagee;
+
 class Student{
     int rno;
     String name;
@@ -33,6 +38,8 @@ public class oop1 {
         Student s2 = new Student();
         Student s3 = new Student(s1);
 
+        System.out.println(s3);
+
         Student s4 = s1;
         System.out.println(s4.name);
         s1.name = "Dudhat";
@@ -41,6 +48,9 @@ public class oop1 {
         final String name = "Mitul"; // do not modify the variable value
                                     // always insiliz while declare
 //        name = "Dudhat";
+
+        // pacakag modify
+         messagee();
 
 
     }
