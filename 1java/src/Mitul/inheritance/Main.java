@@ -1,3 +1,4 @@
+// multipal inheritanc are not avalible in java
 package Mitul.inheritance;
 
 public class Main {
