@@ -4,6 +4,7 @@ public class q_1  {
     public static void main(String[] args) {
         // first
 
+
 //        int n = 5;
 //        for(int i = 1 ; i < n*2 ; i++)
 //        {
